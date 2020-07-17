@@ -1,0 +1,13 @@
+D:\AccessModifier\STUDENT-MANGEMENT\bin\Debug\netcoreapp3.1\STUDENT-MANGEMENT.exe
+D:\AccessModifier\STUDENT-MANGEMENT\bin\Debug\netcoreapp3.1\STUDENT-MANGEMENT.deps.json
+D:\AccessModifier\STUDENT-MANGEMENT\bin\Debug\netcoreapp3.1\STUDENT-MANGEMENT.runtimeconfig.json
+D:\AccessModifier\STUDENT-MANGEMENT\bin\Debug\netcoreapp3.1\STUDENT-MANGEMENT.runtimeconfig.dev.json
+D:\AccessModifier\STUDENT-MANGEMENT\bin\Debug\netcoreapp3.1\STUDENT-MANGEMENT.dll
+D:\AccessModifier\STUDENT-MANGEMENT\bin\Debug\netcoreapp3.1\STUDENT-MANGEMENT.pdb
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.AssemblyInfoInputs.cache
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.AssemblyInfo.cs
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.csproj.CoreCompileInputs.cache
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.dll
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.pdb
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.genruntimeconfig.cache
+D:\AccessModifier\STUDENT-MANGEMENT\obj\Debug\netcoreapp3.1\STUDENT-MANGEMENT.csprojAssemblyReference.cache

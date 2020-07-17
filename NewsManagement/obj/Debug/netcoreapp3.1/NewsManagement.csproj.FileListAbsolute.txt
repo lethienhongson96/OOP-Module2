@@ -1,0 +1,13 @@
+D:\AccessModifier\NewsManagement\bin\Debug\netcoreapp3.1\NewsManagement.exe
+D:\AccessModifier\NewsManagement\bin\Debug\netcoreapp3.1\NewsManagement.deps.json
+D:\AccessModifier\NewsManagement\bin\Debug\netcoreapp3.1\NewsManagement.runtimeconfig.json
+D:\AccessModifier\NewsManagement\bin\Debug\netcoreapp3.1\NewsManagement.runtimeconfig.dev.json
+D:\AccessModifier\NewsManagement\bin\Debug\netcoreapp3.1\NewsManagement.dll
+D:\AccessModifier\NewsManagement\bin\Debug\netcoreapp3.1\NewsManagement.pdb
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.csprojAssemblyReference.cache
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.AssemblyInfoInputs.cache
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.AssemblyInfo.cs
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.csproj.CoreCompileInputs.cache
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.dll
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.pdb
+D:\AccessModifier\NewsManagement\obj\Debug\netcoreapp3.1\NewsManagement.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\MatrixAndMethod\Exercise_2\bin\Debug\netcoreapp3.1\Exercise_2.exe
+D:\MatrixAndMethod\Exercise_2\bin\Debug\netcoreapp3.1\Exercise_2.deps.json
+D:\MatrixAndMethod\Exercise_2\bin\Debug\netcoreapp3.1\Exercise_2.runtimeconfig.json
+D:\MatrixAndMethod\Exercise_2\bin\Debug\netcoreapp3.1\Exercise_2.runtimeconfig.dev.json
+D:\MatrixAndMethod\Exercise_2\bin\Debug\netcoreapp3.1\Exercise_2.dll
+D:\MatrixAndMethod\Exercise_2\bin\Debug\netcoreapp3.1\Exercise_2.pdb
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.csprojAssemblyReference.cache
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.AssemblyInfoInputs.cache
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.AssemblyInfo.cs
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.csproj.CoreCompileInputs.cache
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.dll
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.pdb
+D:\MatrixAndMethod\Exercise_2\obj\Debug\netcoreapp3.1\Exercise_2.genruntimeconfig.cache

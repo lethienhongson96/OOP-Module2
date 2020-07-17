@@ -1,0 +1,13 @@
+D:\AccessModifier\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.exe
+D:\AccessModifier\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.deps.json
+D:\AccessModifier\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.runtimeconfig.json
+D:\AccessModifier\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.runtimeconfig.dev.json
+D:\AccessModifier\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.dll
+D:\AccessModifier\ProductManagement\bin\Debug\netcoreapp3.1\ProductManagement.pdb
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.csprojAssemblyReference.cache
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.AssemblyInfoInputs.cache
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.AssemblyInfo.cs
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.csproj.CoreCompileInputs.cache
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.dll
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.pdb
+D:\AccessModifier\ProductManagement\obj\Debug\netcoreapp3.1\ProductManagement.genruntimeconfig.cache

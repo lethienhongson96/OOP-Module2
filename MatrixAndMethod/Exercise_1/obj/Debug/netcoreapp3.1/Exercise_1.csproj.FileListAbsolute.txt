@@ -1,0 +1,13 @@
+D:\MatrixAndMethod\Exercise_1\bin\Debug\netcoreapp3.1\Exercise_1.exe
+D:\MatrixAndMethod\Exercise_1\bin\Debug\netcoreapp3.1\Exercise_1.deps.json
+D:\MatrixAndMethod\Exercise_1\bin\Debug\netcoreapp3.1\Exercise_1.runtimeconfig.json
+D:\MatrixAndMethod\Exercise_1\bin\Debug\netcoreapp3.1\Exercise_1.runtimeconfig.dev.json
+D:\MatrixAndMethod\Exercise_1\bin\Debug\netcoreapp3.1\Exercise_1.dll
+D:\MatrixAndMethod\Exercise_1\bin\Debug\netcoreapp3.1\Exercise_1.pdb
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.csprojAssemblyReference.cache
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.AssemblyInfoInputs.cache
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.AssemblyInfo.cs
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.csproj.CoreCompileInputs.cache
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.dll
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.pdb
+D:\MatrixAndMethod\Exercise_1\obj\Debug\netcoreapp3.1\Exercise_1.genruntimeconfig.cache

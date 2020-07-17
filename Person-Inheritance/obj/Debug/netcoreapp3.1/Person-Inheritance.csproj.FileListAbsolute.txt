@@ -1,0 +1,13 @@
+D:\AccessModifier\Person-Inheritance\bin\Debug\netcoreapp3.1\Person-Inheritance.exe
+D:\AccessModifier\Person-Inheritance\bin\Debug\netcoreapp3.1\Person-Inheritance.deps.json
+D:\AccessModifier\Person-Inheritance\bin\Debug\netcoreapp3.1\Person-Inheritance.runtimeconfig.json
+D:\AccessModifier\Person-Inheritance\bin\Debug\netcoreapp3.1\Person-Inheritance.runtimeconfig.dev.json
+D:\AccessModifier\Person-Inheritance\bin\Debug\netcoreapp3.1\Person-Inheritance.dll
+D:\AccessModifier\Person-Inheritance\bin\Debug\netcoreapp3.1\Person-Inheritance.pdb
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.csprojAssemblyReference.cache
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.AssemblyInfoInputs.cache
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.AssemblyInfo.cs
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.csproj.CoreCompileInputs.cache
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.dll
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.pdb
+D:\AccessModifier\Person-Inheritance\obj\Debug\netcoreapp3.1\Person-Inheritance.genruntimeconfig.cache

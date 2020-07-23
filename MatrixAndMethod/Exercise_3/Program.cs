@@ -12,9 +12,10 @@ namespace Exercise_3
             matrixNxMOb.PrintMatrix(matrix);
             Console.WriteLine("-----------------------------");
 
-            /* Console.WriteLine("enter a number: ");
-             int v = Convert.ToInt32(Console.ReadLine());*/
+            Console.WriteLine("enter a number: ");
+            int v = Convert.ToInt32(Console.ReadLine());
             matrixNxMOb.MatrixMxN(matrix);
         }
+
     }
 }

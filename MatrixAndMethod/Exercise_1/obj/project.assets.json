@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MatrixAndMethod\\Exercise_1\\Exercise_1.csproj",
+      "projectUniqueName": "D:\\AccessModifier\\MatrixAndMethod\\Exercise_1\\Exercise_1.csproj",
       "projectName": "Exercise_1",
-      "projectPath": "D:\\MatrixAndMethod\\Exercise_1\\Exercise_1.csproj",
+      "projectPath": "D:\\AccessModifier\\MatrixAndMethod\\Exercise_1\\Exercise_1.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\MatrixAndMethod\\Exercise_1\\obj\\",
+      "outputPath": "D:\\AccessModifier\\MatrixAndMethod\\Exercise_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

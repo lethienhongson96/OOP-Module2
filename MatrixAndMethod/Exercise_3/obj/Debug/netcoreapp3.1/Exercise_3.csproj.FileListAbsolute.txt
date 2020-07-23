@@ -11,3 +11,16 @@ D:\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csproj.CoreComp
 D:\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.dll
 D:\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.pdb
 D:\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.genruntimeconfig.cache
+D:\AccessModifier\MatrixAndMethod\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.exe
+D:\AccessModifier\MatrixAndMethod\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.deps.json
+D:\AccessModifier\MatrixAndMethod\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.runtimeconfig.json
+D:\AccessModifier\MatrixAndMethod\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.runtimeconfig.dev.json
+D:\AccessModifier\MatrixAndMethod\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.dll
+D:\AccessModifier\MatrixAndMethod\Exercise_3\bin\Debug\netcoreapp3.1\Exercise_3.pdb
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csprojAssemblyReference.cache
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.AssemblyInfoInputs.cache
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.AssemblyInfo.cs
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.csproj.CoreCompileInputs.cache
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.dll
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.pdb
+D:\AccessModifier\MatrixAndMethod\Exercise_3\obj\Debug\netcoreapp3.1\Exercise_3.genruntimeconfig.cache

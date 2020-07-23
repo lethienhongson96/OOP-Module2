@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj": {}
+    "D:\\AccessModifier\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj": {}
   },
   "projects": {
-    "D:\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj": {
+    "D:\\AccessModifier\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj",
+        "projectUniqueName": "D:\\AccessModifier\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj",
         "projectName": "Exercise_2",
-        "projectPath": "D:\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj",
+        "projectPath": "D:\\AccessModifier\\MatrixAndMethod\\Exercise_2\\Exercise_2.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\MatrixAndMethod\\Exercise_2\\obj\\",
+        "outputPath": "D:\\AccessModifier\\MatrixAndMethod\\Exercise_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
